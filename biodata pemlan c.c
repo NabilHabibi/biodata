@@ -3,7 +3,7 @@
 
 int main(){
 	
-	printf("\n================================================");
+    printf("\n================================================");
     printf("\n");
     printf("\tBIODATA PRIBADI MAHASISWA\n\n");
     printf("Nama\t\t: Nabil Habibi\n");
